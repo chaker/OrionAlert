@@ -1,0 +1,18 @@
+<p>alert works!</p>
+
+<table>
+    <thead>
+      <tr>
+        <th>Create At</th>
+        <th>Alert</th>
+        <th>Expression</th>
+      </tr>
+    </thead>
+    <tbody>
+     <tr *ngFor="let dataItem of Alerts">
+        <td>{{dataItem.createdAt}}</td>
+        <td>{{dataItem.label}}</td>
+        <td>{{dataItem.expression}}</td>
+      </tr>
+    </tbody>
+  </table>

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "t5rHAmZMxWk7/xKBiHhtTUr1JoBlnLlkLFfwa5Bm1HJS1wDTJ+9U5SCwhyAmfnT9ivZHVzRp/bAphXygqApmCw==",
+  "success": true,
+  "projectFilePath": "C:\\Temp\\OrionAlert\\Back\\OrionAlert.WebApi\\OrionAlert.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kirov\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\kirov\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kirov\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\kirov\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\kirov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\kirov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

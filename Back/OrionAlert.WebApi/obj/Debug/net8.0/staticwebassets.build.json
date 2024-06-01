@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EdPp+ZxwpWbdNXge+r4COszk80SbIhACBimyVyuYRvE=",
+  "Source": "OrionAlert.WebApi",
+  "BasePath": "_content/OrionAlert.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
