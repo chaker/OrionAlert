@@ -1,6 +1,0 @@
-@OrionAlert.Notif_HostAddress = http://localhost:5159
-
-GET {{OrionAlert.Notif_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
