@@ -433,8 +433,8 @@
     },
     "OrionAlert.Entities/1.0.0": {
       "type": "project",
-      "path": "../OrionAlert.Notif/OrionAlert.Entities/OrionAlert.Entities.csproj",
-      "msbuildProject": "../OrionAlert.Notif/OrionAlert.Entities/OrionAlert.Entities.csproj"
+      "path": "../OrionAlert.Entities/OrionAlert.Entities.csproj",
+      "msbuildProject": "../OrionAlert.Entities/OrionAlert.Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -476,8 +476,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Temp\\OrionAlert\\Back\\OrionAlert.Notif\\OrionAlert.Entities\\OrionAlert.Entities.csproj": {
-              "projectPath": "C:\\Temp\\OrionAlert\\Back\\OrionAlert.Notif\\OrionAlert.Entities\\OrionAlert.Entities.csproj"
+            "C:\\Temp\\OrionAlert\\Back\\OrionAlert.Entities\\OrionAlert.Entities.csproj": {
+              "projectPath": "C:\\Temp\\OrionAlert\\Back\\OrionAlert.Entities\\OrionAlert.Entities.csproj"
             }
           }
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrionAlert.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+014dbfa71c2bcd6b457227efeb14fe7df1ff88ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d794d6637322b428d95095ba67fc6b3d347447b")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrionAlert.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrionAlert.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

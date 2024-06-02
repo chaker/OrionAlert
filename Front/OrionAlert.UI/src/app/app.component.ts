@@ -1,7 +1,9 @@
+import { HttpClient } from '@microsoft/signalr';
 import { AlertComponent } from './alert/alert.component';
 import { ApiServiceService } from './apiService.service';
+import { SignalRService } from './signalRService.service';
 
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 
 
@@ -15,4 +17,13 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'OrientAlert.UI';
+
+  // constructor(private SignalRService: SignalRService){}
+
+  // ngOnInit(): void {
+  //   // this.SignalRService.alerts$.subscribe(alerts => {
+  //   //   console.log(alerts);
+  //   // });
+  // }
 }
+

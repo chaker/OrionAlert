@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OrionAlert.Notif\OrionAlert.Entities\OrionAlert.Entities.csproj" />
+    <ProjectReference Include="..\OrionAlert.Entities\OrionAlert.Entities.csproj" />
   </ItemGroup>
 
 </Project>

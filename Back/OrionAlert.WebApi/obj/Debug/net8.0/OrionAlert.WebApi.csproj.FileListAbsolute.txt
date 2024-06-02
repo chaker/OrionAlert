@@ -1,3 +1,11 @@
+C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\OrionAlert.WebApi.csproj.AssemblyReference.cache
+C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\OrionAlert.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\OrionAlert.WebApi.AssemblyInfoInputs.cache
+C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\OrionAlert.WebApi.AssemblyInfo.cs
+C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\OrionAlert.WebApi.csproj.CoreCompileInputs.cache
+C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\OrionAlert.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\OrionAlert.WebApi.sourcelink.json
+C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\OrionAlert.WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Temp\OrionAlert\Back\OrionAlert.WebApi\bin\Debug\net8.0\appsettings.Development.json
 C:\Temp\OrionAlert\Back\OrionAlert.WebApi\bin\Debug\net8.0\appsettings.json
 C:\Temp\OrionAlert\Back\OrionAlert.WebApi\bin\Debug\net8.0\OrionAlert.WebApi.exe
@@ -9,14 +17,8 @@ C:\Temp\OrionAlert\Back\OrionAlert.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Temp\OrionAlert\Back\OrionAlert.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Temp\OrionAlert\Back\OrionAlert.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Temp\OrionAlert\Back\OrionAlert.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\OrionAlert.WebApi.csproj.AssemblyReference.cache
-C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\OrionAlert.WebApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\OrionAlert.WebApi.AssemblyInfoInputs.cache
-C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\OrionAlert.WebApi.AssemblyInfo.cs
-C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\OrionAlert.WebApi.csproj.CoreCompileInputs.cache
-C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\OrionAlert.WebApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\OrionAlert.WebApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\OrionAlert.WebApi.sourcelink.json
+C:\Temp\OrionAlert\Back\OrionAlert.WebApi\bin\Debug\net8.0\OrionAlert.Entities.dll
+C:\Temp\OrionAlert\Back\OrionAlert.WebApi\bin\Debug\net8.0\OrionAlert.Entities.pdb
 C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\staticwebassets.development.json
 C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.OrionAlert.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
@@ -31,5 +33,3 @@ C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\refint\OrionAlert.Web
 C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\OrionAlert.WebApi.pdb
 C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\OrionAlert.WebApi.genruntimeconfig.cache
 C:\Temp\OrionAlert\Back\OrionAlert.WebApi\obj\Debug\net8.0\ref\OrionAlert.WebApi.dll
-C:\Temp\OrionAlert\Back\OrionAlert.WebApi\bin\Debug\net8.0\OrionAlert.Entities.dll
-C:\Temp\OrionAlert\Back\OrionAlert.WebApi\bin\Debug\net8.0\OrionAlert.Entities.pdb

@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { ApiServiceService } from '../apiService.service';
 import { NgFor } from '@angular/common';
 import { HttpClient} from '@angular/common/http';
+import { SignalRService } from '../signalRService.service';
 
 @Component({
   selector: 'app-alert',
@@ -14,10 +15,15 @@ export class AlertComponent implements OnInit {
 
   Alerts: any = [];
 
-  constructor(private apiService: ApiServiceService){}
+  constructor(private apiService: ApiServiceService, private SignalRService: SignalRService){}
 
   ngOnInit(): void {
     this.refreshLastAlerts();
+
+    this.SignalRService.alerts$.subscribe(alerts => {
+      console.log(`receive new alerts : ${alerts[alerts.length-1]}`);
+      this.refreshLastAlerts();
+    });
   }
 
   private refreshLastAlerts() {
